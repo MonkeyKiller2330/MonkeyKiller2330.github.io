@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>测试页面</title>
+      <title>偷月亮给皮皮的第一篇文章</title>
       <link href="blog/done/"/>
       <url>blog/done/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="关于"><a href="#关于" class="headerlink" title="关于"></a>关于</h1><p>如果你看到此页面，说明你成功访问了Mr Li的个人网站。</p><p>你可以查看，以下介绍：<br>本网站采用“Hexo”框架强力驱动，后端采用ABp Vnext实现业务逻辑，全部是Mr Li独立编写，旨在创建一个记录日常生活以及学习技术的网站。</p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>如果你看到此页面，说明你成功访问了Mr Li的个人网站。</p><p>你可以查看，以下介绍：<br>本网站采用“Hexo”框架强力驱动，后端采用ABp Vnext实现业务逻辑，全部是Mr Li独立编写，旨在创建一个记录日常生活以及学习技术的网站。</p>]]></content>
       
       
       
